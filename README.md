@@ -1,16 +1,25 @@
 ## Hi there 👋
+# Hi, I'm Mohammadashifkhan Pathan 👋
 
-<!--
-**Mohammadashifkhan14/Mohammadashifkhan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux & Cloud Infrastructure fresher | RHCSA | RHCE | Ansible | AWS | Cybersecurity
 
-Here are some ideas to get you started:
+## About me
+- Cybersecurity intern: SSH hardening, firewall rules, Fail2Ban, log auditing
+- Building projects in infrastructure automation and security compliance
+- MSc IT IMS & CS student, Gujarat University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Red Hat Certified System Administrator (RHCSA)
+- Red Hat Certified Engineer (RHCE)
+
+## Projects
+- Hybrid IT Hardening & Compliance Automation (Ansible)
+- High-Availability Web Infrastructure on AWS
+- Web Server Configuration & Security Automation (Ansible)
+
+## Skills
+Linux · Ansible · AWS · AZURE · Bash · Python · Wazuh · Nmap · Wireshark
+
+## Contact
+- LinkedIn: https://linkedin.com/in/ashifkhan-pathan
+- Email: ashifkhan11204@gmail.com
