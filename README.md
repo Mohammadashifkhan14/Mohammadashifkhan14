@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Mohammadashifkhan Pathan 👋
 
 Linux & Cloud Infrastructure fresher | RHCSA | RHCE | Ansible | AWS | Cybersecurity
