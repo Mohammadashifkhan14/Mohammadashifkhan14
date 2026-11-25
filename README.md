@@ -17,7 +17,7 @@ Linux & Cloud Infrastructure fresher | RHCSA | RHCE | Ansible | AWS | Cybersecur
 - Web Server Configuration & Security Automation (Ansible)
 
 ## Skills
-Linux · Ansible · AWS · AZURE · Bash · Python · Wazuh · Nmap · Wireshark
+Linux · Ansible · AWS · Azure · Bash · Python · Wazuh · Nmap · Wireshark
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/ashifkhan-pathan
